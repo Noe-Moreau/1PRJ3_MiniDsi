@@ -1,0 +1,10 @@
+## Plan d'adressage IP 
+
+Réseau : `10.1.101.XX /24`
+
+| Hostname       | Adresse IP      |
+|----------------|-----------------|
+| SRV-AD-01      | `10.1.101.130`  |
+| SRV-FL-01      | `10.1.101.131`  |
+| SRV-SV-01      | `10.1.101.132`  |
+| CLI-WORK-01    | DHCP            |
